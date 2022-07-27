@@ -1,0 +1,10 @@
+Mod Author: Kokkorylien (bilibili UID: 2100612, Steam Friend Code: 251805531)
+Original Model Distribution by 深空之眼 / chuyuri:
+https://www.aplaybox.com/details/model/hRTeXJIhRTIe
+Model copyright belongs to Eye of Deep Space
+This character Leviathan comes from Eye of Deep Space / Project Mimir
+
+Mod content:
+Eye tracking; Expression; JiggleBone (Hair, Bandage, Bag, Identity Card); vrd (Hand);
+Environmental reflection (Eye);
+Rochelle's animation; Arms; Icons (Alpha);
