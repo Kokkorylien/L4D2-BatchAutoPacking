@@ -116,7 +116,7 @@
 ## 规格化使用参考流程
 1. 将crowbar生成的模型文件所在的外层文件夹 "models" 粘贴到 "source" 文件夹中；
 2. 将模型的材质文件夹粘贴到 "source\materials" 文件夹中；
-3. 将图标文件(*.vtf)都粘贴到 "source\vgui" 文件夹中，并进行改名；
+3. 将图标文件(*.vtf)都粘贴到 "source\materials\vgui" 文件夹中，并进行改名；
 4. 将vpk预览图片文件 "addonimage.jpg" 粘贴到 "source" 文件夹中；
 5. 编辑 "auto.bat" ，找到 SET head=[Survivor]Leviathan.DriftingSnow.School. 这一文段，修改 head= 后方的文段以更改打包文件夹前缀；
 6. 修改 "source/Description.txt" 的内容，以更改vpk的内容描述；
